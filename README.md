@@ -78,7 +78,7 @@ berbeda.
 6. Salin URL yang muncul (diakhiri `/exec`).
 7. Buka `src/config.js`, tempel URL tersebut:
    ```js
-   export const SCRIPT_URL = "https://script.google.com/macros/s/XXXXXXX/exec](https://script.google.com/macros/s/AKfycbxCSgvqyR2nptfWIuIr11iiHnBf4ERURJqI8cJ-M2-b6-6GWG9iyY-EuC2CvYob97q1/exec";
+   export const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxCSgvqyR2nptfWIuIr11iiHnBf4ERURJqI8cJ-M2-b6-6GWG9iyY-EuC2CvYob97q1/exec";
    ```
 8. Jalankan ulang `npm run dev` (atau build ulang bila sudah dideploy).
 
